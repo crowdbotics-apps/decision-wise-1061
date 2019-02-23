@@ -1,0 +1,3 @@
+rootProject.name = 'decision_wise_1061'
+
+include ':app'
